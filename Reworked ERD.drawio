@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="Ig0U8xe3ZbvtL72Rn7GQ">
-    <mxGraphModel dx="1001" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,10 +255,10 @@
         <mxCell id="CBjT-JGclThgRbouZZDj-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="p_htvbaKsyKhhXVdYTKI-89" target="p_htvbaKsyKhhXVdYTKI-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_htvbaKsyKhhXVdYTKI-89" value="Recorded" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="p_htvbaKsyKhhXVdYTKI-89" value="Records" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="-50" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p_htvbaKsyKhhXVdYTKI-91" value="LossReport" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="p_htvbaKsyKhhXVdYTKI-91" value="NetSales" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="-40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p_htvbaKsyKhhXVdYTKI-116" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" parent="1" source="p_htvbaKsyKhhXVdYTKI-115" target="p_htvbaKsyKhhXVdYTKI-72" edge="1">
@@ -384,7 +384,7 @@
         <mxCell id="CBjT-JGclThgRbouZZDj-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="CBjT-JGclThgRbouZZDj-17" target="CBjT-JGclThgRbouZZDj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CBjT-JGclThgRbouZZDj-17" value="d" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="CBjT-JGclThgRbouZZDj-17" value="o" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="540" y="-40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBjT-JGclThgRbouZZDj-18" value="Unsold" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -404,7 +404,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBjT-JGclThgRbouZZDj-31" value="E" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CBjT-JGclThgRbouZZDj-31" value="Records" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CBjT-JGclThgRbouZZDj-41" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -419,7 +419,7 @@
         <mxCell id="CBjT-JGclThgRbouZZDj-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="CBjT-JGclThgRbouZZDj-43" target="p_htvbaKsyKhhXVdYTKI-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CBjT-JGclThgRbouZZDj-43" value="Logs" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CBjT-JGclThgRbouZZDj-43" value="Records" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="30" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
